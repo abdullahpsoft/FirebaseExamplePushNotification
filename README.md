@@ -1,5 +1,9 @@
 # FirebaseExamplePushNotification
 This project uses Firebase server to send push notifications to this android app.
+Just create your project in firebase console https://firebase.google.com
+Select android project in the newly created prject.
+Add your android app package name in your project.
+And thats it
 
 *****Set up a Firebase Cloud Messaging client app on Android*****
 All things that are required by firebase server are already set up in this project.
