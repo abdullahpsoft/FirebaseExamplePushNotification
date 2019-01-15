@@ -24,4 +24,4 @@ If you dont want to register the device to any topic. You can sent push notifica
  
 
 
-******FOR ANY INFORMATION OR DETAILED TUTORIAL CONTACT ME: abdullapsoft@gmail.com**********
+******FOR ANY INFORMATION OR DETAILED TUTORIAL CONTACT ME: abdullahpsoft@gmail.com**********
